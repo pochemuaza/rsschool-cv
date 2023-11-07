@@ -2,9 +2,9 @@
   
 ## Contacts
   
-**Location:** Almaty, Kazakhstan
-**Phone:** +77079290947
-**Email:** pochemuaza@gmail.com
+**Location:** Almaty, Kazakhstan<br>
+**Phone:** +77079290947<br>
+**Email:** pochemuaza@gmail.com<br>
 **Telegram:** [@pochemuaza](https://t.me/pochemuaza)
 
 ## About me
