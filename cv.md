@@ -25,7 +25,11 @@ I am 23 years old. This year I finished my studies at the university, but I real
 
 ## Code example
 
-
+```
+function multiply (a, b) {
+return a * b
+}
+```
 
 ## Education
 
