@@ -33,8 +33,10 @@ return a * b
 
 ## Education
 
-
+**RSAU-MTAA Institute of Water Reclamation and Construction**<br>
+Bachelor of safety engineering 2023
 
 ## Languages
 
-
+* **Russian** - native speaker
+* **English** - B2
